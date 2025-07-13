@@ -1,0 +1,2 @@
+string name="";
+console.writeline("The given user name is: "+name);
