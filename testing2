@@ -1,0 +1,2 @@
+string name2="";
+Console.WriteLine("The given user name is: "+name2);
